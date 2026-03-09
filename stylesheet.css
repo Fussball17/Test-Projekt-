@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(121, 211, 121);
+    font-family: "Quantico";
+}
+
+#Titel {
+    text-align: left;
+}
+
+#faehigkeiten {
+    width: 50%;
+    margin-left: 50%;
+    border: rgb(84, 154, 211) 20px solid;
+}
+#Fussball{
+    border:  rgb(84, 154, 211) 20px solid;width: 20%;
+}
+.schulzeit{border:rgb(84, 154, 211) 20px solid;width: 20%;
+}
+.faecher{border:rgb(84, 154, 211) 20px solid;width: 20%;
+/* }} */
