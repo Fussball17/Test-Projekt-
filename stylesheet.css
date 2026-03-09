@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(121, 211, 121);
+    background-color: rgb(121, 211, 121);argin-left: 10%;
     font-family: "Quantico";
 }
 
@@ -15,7 +15,18 @@ body {
 #Fussball{
     border:  rgb(84, 154, 211) 20px solid;width: 20%;
 }
-.schulzeit{border:rgb(84, 154, 211) 20px solid;width: 20%;
+.schulzeit{border:rgb(84, 154, 211) 20px solid;width: 20%;    margin-left: 25%;
 }
-.faecher{border:rgb(84, 154, 211) 20px solid;width: 20%;
+.faecher{border:rgb(84, 154, 211) 20px solid;width: 20%;}
 /* }} */
+#Tennis{margin-left: 30%;}
+/* Tennisfeld */
+.court {
+  width: 500px;
+  height: 250px;
+  background-color: green;
+  position: relative;
+  border: 5px solid white;}
+  /* Mittellinie */
+
+}
